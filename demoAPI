@@ -1,0 +1,37 @@
+[
+        {id : 1,
+         name:'iPhone 15 Pro',
+         price:'5899',
+         image:'iphone.jpg',
+         description:'購買 iPhone 15 Pro'},
+
+        {id : 2,
+         name:'Macbook Pro',
+         price:'7799',
+         image:'macbook.jpg',
+         description:'購買Macbook Pro'},
+
+        {id : 3,
+            name:'Apple Watch SE',
+            price:'1999',
+            image:'watch.jpg',
+            description:'購買 Apple Watch SE'},
+
+        {id : 4,
+         name:'Airpods Max',
+         price:'4599',
+         image:'airpods.png',
+         description:'購買 Airpods Max'},
+
+        {id : 5,
+            name:'Apple TV 4K',
+            price:'1049',
+            image:'tv.jpg',
+            description:'購買 Apple TV 4K'},
+
+        {id : 6,
+            name:'iPad Pro',
+            price:'6499',
+            image:'ipad.jpg',
+            description:'購買 iPad Pro'},
+    ] 
